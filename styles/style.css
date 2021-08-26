@@ -81,10 +81,10 @@ nav a:hover {
 }
 
 footer {
-  background-image: url("/bg.jpg");
-  background-color: #888888;
   text-align: center;
   padding: 40px 0;
+  background-image: url(bg.jpg);
+  background-position: center;
 }
 
 .copyrigth {
